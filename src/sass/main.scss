@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 640px;
+  width: 360px;
+  overflow: hidden;
+  display: block;
+  
+  #App {
+    display: block;
+    height: 640px;
+    width: 360px;
+    background: #000;
+  }
+}
